@@ -60,7 +60,7 @@ function preload() {
   frontTexture = loadImage('IMG_7722.JPG');
   frontTexture2 = loadImage('ME.jpg'); 
   frontTexture3 = loadImage('2TASTDHWHOLEWB@.jpg');// Replace 'front_texture.jpg' with your front texture image file
-  frontTexture4 = loadVideo('FIUNAL SHORT SHORT.mp4');
+  frontTexture4 = createVideo('FIUNAL SHORT SHORT.mp4');
   backTexture = loadImage('hippie-flowers-jeff-hobrath.jpg'); // Replace 'back_texture.jpg' with your back texture image file
 
 }
