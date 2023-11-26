@@ -58,8 +58,9 @@ function preload() {
     verticalImagesBack.push(loadImage('IMG-2277.JPG'));
   }
   frontTexture = loadImage('IMG_7722.JPG');
-  frontTexture2 = loadImage('ME.jpg');
+  frontTexture2 = loadImage('ME.jpg'); 
   frontTexture3 = loadImage('2TASTDHWHOLEWB@.jpg');// Replace 'front_texture.jpg' with your front texture image file
+  frontTexture4 = loadVideo('FIUNAL SHORT SHORT.mp4');
   backTexture = loadImage('hippie-flowers-jeff-hobrath.jpg'); // Replace 'back_texture.jpg' with your back texture image file
 
 }
